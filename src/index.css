@@ -40,7 +40,7 @@ body{
 }
 
 .wrapper{
-    width: 90vw;
+    width: 100%;
     margin: 2rem auto;
     display: grid;
     grid-template-columns: 1fr;
@@ -145,7 +145,7 @@ body{
 }
 
 
-.selfcare{
+.self-care{
     background-color: var(--self-care-background);
     background-image: url("assets/icon-self-care.svg");
 }
@@ -204,17 +204,6 @@ body{
     margin-bottom: 1rem;
 }
 
-@media screen and (min-width: 420px ){
-    .wrapper{
-        width: 70%;
-    }
-}
-
-@media screen and  ( min-width: 540px){
-    .wrapper{
-        width: 60%;
-    }
-}
 
 
 @media screen and (min-width: 960px){
@@ -245,5 +234,6 @@ body{
     .dashboard__profile h1{
         margin-bottom: 1.5rem;
         font-size: 2.2rem;
+        max-width: 10ch;
     }
 }
