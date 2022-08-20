@@ -9,7 +9,6 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
-    - [Links](#links)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
@@ -31,12 +30,6 @@ Users should be able to:
 ![](./large-screen.png)
 ![](./mobile-screen.png)
 
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
 
